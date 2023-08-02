@@ -28,12 +28,19 @@ Data Access Layer.</li>
 <li>Presentation Layer. It is responsible what everything a user
 can see an their screen, like lists of drivers, cars, or manufacturers.</li>
 </ul>
-<h3>Used technologies</h3>
-The project was written in Java language, with servlets responsible
-for showing webpages to a user. Tomcat was also included in the project as 
-a servlet container to facilitate working with 
-servlets. As for database management system,
-MySQL was used along with JDBC to interact with the database.
+<<h3>Used technologies</h3>
+<ul>
+    <li>Java 17</li>
+    <li>Spring MVC</li>
+    <li>Spring Security</li>
+    <li>Hibernate</li>
+    <li>Tomcat 9</li>
+    <li>H2 database</li>
+    <li>REST</li>
+    <li>JSON</li>
+    <li>Jackson</li>
+    <li>Maven</li>
+</ul>
 <h3>How to install and use the project</h3>
 <ol>
 <li>Firstly, you need to install Java for your computer to be able
