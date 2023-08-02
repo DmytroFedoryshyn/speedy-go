@@ -28,7 +28,7 @@ Data Access Layer.</li>
 <li>Presentation Layer. It is responsible what everything a user
 can see an their screen, like lists of drivers, cars, or manufacturers.</li>
 </ul>
-<<h3>Used technologies</h3>
+<h3>Used technologies</h3>
 <ul>
     <li>Java 17</li>
     <li>Tomcat 9</li>
